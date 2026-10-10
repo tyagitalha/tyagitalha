@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Talha 👋
 
-<!--
-**tyagitalha/tyagitalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fresher Web Developer | Full-Stack Development
 
-Here are some ideas to get you started:
+I'm a B.Com student at the University of Lucknow, learning and building web applications through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React (Learning)
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, GitHub, Postman
+
+### Featured Projects
+- **HelpDesk:** A full-stack support ticket management system with authentication, ticket management, search, filtering, and pagination.
+- **Notes-App:** A notes application built with HTML, CSS, and JavaScript.
+
+### Current Focus
+Improving my React skills and building better full-stack applications.
+
